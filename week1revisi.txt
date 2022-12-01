@@ -7,3 +7,7 @@
 6. Lakukan perulangan kemudian cek kesamaan setiap huruf
 7. Jika iya tampilkan "Palindrom"
 8. Jika tidak tampilkan "Bukan Palindrom" 
+
+-Reverse Word
+1. Masukan Text
+2. 
