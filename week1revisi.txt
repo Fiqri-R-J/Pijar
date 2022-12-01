@@ -1,0 +1,9 @@
+-Deteksi Palindrom
+1. Masukan Text
+2. Cek apakah text berupa string atau bukan
+3. Jika tidak tampilkan "Text bukan berupa string"
+4. Jika iya rubah text menjadi huruf kecil
+5. Hapus spasi pada text
+6. Lakukan perulangan kemudian cek kesamaan setiap huruf
+7. Jika iya tampilkan "Palindrom"
+8. Jika tidak tampilkan "Bukan Palindrom" 
