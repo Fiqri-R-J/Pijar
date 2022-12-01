@@ -10,4 +10,4 @@
 
 -Reverse Word
 1. Masukan Text
-2. 
+2. Cek Apakah Text berupa string atau bukan
