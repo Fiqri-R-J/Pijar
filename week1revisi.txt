@@ -1,8 +1,8 @@
 -Deteksi Palindrom
 1. Masukan Text
 2. Cek apakah text berupa string atau bukan
-3. Jika tidak tampilkan "Text bukan berupa string"
-4. Jika iya rubah text menjadi huruf kecil
+3. False tampilkan "Text bukan berupa string"
+4. True rubah text menjadi huruf kecil
 5. Hapus spasi pada text
 6. Lakukan perulangan kemudian cek kesamaan setiap huruf
 7. Jika iya tampilkan "Palindrom"
@@ -10,4 +10,9 @@
 
 -Reverse Word
 1. Masukan Text
-2. Cek Apakah Text berupa string atau bukan
+2. Cek Text berupa string atau bukan
+3. False tampilkan "Text bukan String"
+4. True rubah text menjadi array dan hitung panjangnya
+5. Cek panjang array lebih besar dari 0
+6. False tampilkan hasil
+7. True tambah
