@@ -15,4 +15,5 @@
 4. True rubah text menjadi array dan hitung panjangnya
 5. Cek panjang array lebih besar dari 0
 6. False tampilkan hasil
-7. True tambah
+7. True ulang sampai false
+9. Output hasil
